@@ -1,0 +1,17 @@
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#define APSTUDIO_HIDDEN_SYMBOLS
+#include "windows.h"
+#undef APSTUDIO_HIDDEN_SYMBOLS
+#undef APSTUDIO_READONLY_SYMBOLS
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+LANGUAGE 25, 1
+
+IDI_SMALL ICON "icon.ico"
+
+#endif
