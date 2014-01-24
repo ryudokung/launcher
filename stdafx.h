@@ -6,6 +6,8 @@
 
 #include <windows.h>
 #include <ShellAPI.h>
+#include <Shlwapi.h>
+#include <ShlObj.h>
 
 #include <stdlib.h>
 #include <malloc.h>
